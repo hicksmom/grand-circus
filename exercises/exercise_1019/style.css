@@ -1,0 +1,19 @@
+/* b1: default fonts */
+body {
+    font-family: Lato, Helvetica, sans-serif;
+}
+header {
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+
